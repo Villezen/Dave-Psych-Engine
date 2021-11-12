@@ -1,0 +1,24 @@
+{
+	"position": [
+		170,
+		130
+	],
+	"dialogue_pos": "left",
+	"scale": 2.55,
+	"image": "dave1",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "dave house portrait0004",
+			"loop_name": "dave house portrait0004"
+		}
+	]
+}
